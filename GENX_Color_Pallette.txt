@@ -2,9 +2,3 @@
 # 2B2B3B
 # 57E0D6
 # BABABA
-
-Modified Files:
-genesisgui.cpp
-forms/helpmessagedialog.ui
-forms/optionsdialog.ui
-forms/sendcoinsdialog.ui
