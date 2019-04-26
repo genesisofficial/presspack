@@ -1,6 +1,6 @@
 ![GenX Logo](https://wiki.genesisnetwork.io/images/thumb/7/75/BrandBlueBlue.png/750px-BrandBlueBlue.png "Genesis")
 
-Genesis Official Artwork Repository
+Genesis Official Press Repository
 =====================================
 This repository can be used for marketing or branding purposes of Genesis Network and Genesis (GENX) digital currency.
 
